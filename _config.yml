@@ -1,0 +1,14 @@
+layout_spectrum: 0.9343486
+typography_spectrum: 0.2808518
+color:
+  saturation: 0.8682844
+  lightness: 0.894814
+  brandStrength: 0.1805389
+  rhythmicContrast: 0.04633575
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: London-trip
