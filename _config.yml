@@ -1,8 +1,3 @@
-color:
-  saturation: 0.5621266
-  brandStrength: 0.1805389
-  rhythmicContrast: 0.3339307
-  lightness: 0.5609319
 collections:
   - index:
       path: /
@@ -15,6 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.9343486
 typography_spectrum: 0.2808518
+color:
+  saturation: 0.5621266
+  brandStrength: 0.1805389
+  rhythmicContrast: 0.3339307
+  lightness: 0.5609319
+layout_spectrum: 0.7401433
 name: London-trip
